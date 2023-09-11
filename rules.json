@@ -16,5 +16,11 @@
         "priority": 1,
         "action": {"type": "block"},
         "condition": { "urlFilter": "*://*.ad/*"}
+    }, 
+    {
+        "id": 4,
+        "priority": 1,
+        "action": {"type": "block"},
+        "condition": { "urlFilter": "*://*.ai/*"}
     }
 ]
